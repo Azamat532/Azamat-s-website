@@ -28,7 +28,7 @@
  /* header */
  
  .header {
-     background: cornflowerblue;
+     background: rgb(225, 100, 237);
      min-height: 100dvh;
      transition: .4s;
      display: flex;
